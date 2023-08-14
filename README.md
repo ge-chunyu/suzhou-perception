@@ -1,5 +1,4 @@
-# suzhou-perception
-Stimuli of Suzhou Wu perception experiment
+# Stimuli of Suzhou Wu perception experiment
 
 This repository contains the base syllables used to resynthesize stimuli for a perception experiment in Suzhou Wu Chinese. There three folders,
 
